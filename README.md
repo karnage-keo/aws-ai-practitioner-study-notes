@@ -4,7 +4,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 
 # Table of content
 
-## Cloud computing and AI - Overview
+## [Cloud computing and AI - Overview](main_sections/test.md)
 1. Introduction to AI
 2. Introduction to Cloud Computering
 3. Setting up an AWS account

@@ -8,7 +8,7 @@
 
 <details>
 
-<summary> ## Introduction to AI </summary>
+<summary #>  Introduction to AI </summary>
 
  ### What is AI?
 

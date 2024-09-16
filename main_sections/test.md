@@ -1,4 +1,4 @@
-![#f03c15] # Cloud computing and AI - Overview `#f03c15`
+# Cloud computing and AI - Overview 
 
   ## An introduction to AI </summary>
 

@@ -62,7 +62,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 11. AI & ML - When not to use ML
 12. Hyperparatmeters
 
-## [AWS Managed AI Services[(https://aws.amazon.com/ai/services/)
+## [AWS Managed AI Services](https://aws.amazon.com/ai/services/)
 1. When to use an AI Managed service
 2.Amazon Comprehend
 3.Amazon Translate

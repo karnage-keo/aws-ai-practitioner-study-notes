@@ -17,7 +17,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 2. Prompt performance opermization
 3. Prompt engineering Techniques
 
-## [Amazon Bedrock] (https://aws.amazon.com/bedrock/?gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6SxbEaPkg-Q09gIUOkMVzO73-OjjauQPVWe2xXdEOSLxMspeDv_dwKIaAqP8EALw_wcB&trk=42edd3ad-f9d1-4bec-98be-19a453395a44&sc_channel=ps&ef_id=Cj0KCQjwrp-3BhDgARIsAEWJ6SxbEaPkg-Q09gIUOkMVzO73-OjjauQPVWe2xXdEOSLxMspeDv_dwKIaAqP8EALw_wcB:G:s&s_kwcid=AL!4422!3!691967596761!e!!g!!amazon%20bedrock!21048269259!166106444144)
+## [Amazon Bedrock](https://aws.amazon.com/bedrock/?gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6SxbEaPkg-Q09gIUOkMVzO73-OjjauQPVWe2xXdEOSLxMspeDv_dwKIaAqP8EALw_wcB&trk=42edd3ad-f9d1-4bec-98be-19a453395a44&sc_channel=ps&ef_id=Cj0KCQjwrp-3BhDgARIsAEWJ6SxbEaPkg-Q09gIUOkMVzO73-OjjauQPVWe2xXdEOSLxMspeDv_dwKIaAqP8EALw_wcB:G:s&s_kwcid=AL!4422!3!691967596761!e!!g!!amazon%20bedrock!21048269259!166106444144)
 1. Overview
 2. AWS Bedroom overview (hands on)
 3. Amazon Bedrock - Foundation Models (FM)

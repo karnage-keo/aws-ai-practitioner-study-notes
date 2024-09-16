@@ -85,3 +85,6 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 ## [AWS Security Services - IAM](https://aws.amazon.com/iam/)
 
 # Exam - Sample questions
+
+# AWS AI - Solution Architect examples & walkthroughs
+

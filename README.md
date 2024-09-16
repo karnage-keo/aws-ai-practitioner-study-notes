@@ -5,9 +5,10 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 # Table of content
 
 ## Cloud computing and AI - Overview
-1. Cloud computing overview
-2. Setting up an AWS account
-3. AWS Console - Quick guide
+1. Introduction to AI
+2. Introduction to Cloud Computering
+3. Setting up an AWS account
+4. AWS Console - Quick guide
 3. Setting up budgets
 4. What is GenAI?
 5. GenAI concepts

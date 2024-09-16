@@ -4,7 +4,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 
 # Table of content
 
-## Intro
+## Cloud computing and AI - Overview
 1. Cloud computing overview
 2. Setting up an AWS account
 3. AWS Console - Quick guide
@@ -82,8 +82,6 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 
 ## [Challenges of AI](https://aws.amazon.com/blogs/publicsector/introducing-the-amazon-trusted-ai-challenge/#:~:text=The%20Amazon%20Trusted%20AI%20Challenge%20aims%20to%20enhance%20the%20safety,AI%2Dassisted%20software%20development%20tools.)
 
-## AWS Security Services
-
-## AWS Managed AI Services
+## [AWS Security Services - IAM](https://aws.amazon.com/iam/)
 
 # Exam - Sample questions

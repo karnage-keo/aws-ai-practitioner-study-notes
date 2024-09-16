@@ -1,5 +1,5 @@
 ## Cloud computing and AI - Overview
-- [Introduction to AI](#Introduction to AI)
+- [Introduction to AI](###Introduction to AI)
 - [GenAI concepts](#GenAI concepts)
 - [Introduction to Cloud Computering](#Introduction to Cloud Computering)
 - [Setting up an AWS account](#Setting up an AWS account)

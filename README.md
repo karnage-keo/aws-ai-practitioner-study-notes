@@ -30,17 +30,17 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 10. Amazon Bedrock - Pricing overview
 11. Amazon Bedrock - AI Stylist
 
-## AWS SageMaker
+## [AWS SageMaker](https://aws.amazon.com/sagemaker/)
 1. AWS SageMake - Intro
 2. AWS SageMake - Data Tools
 3. AWS SageMake - Models & Humans
 4. AWS SageMake - Governance
 5. AWS SageMake - Consoles
 
-## Bedrock vs SageMaker
+## [Bedrock vs SageMaker](https://docs.aws.amazon.com/decision-guides/latest/bedrock-or-sagemaker/bedrock-or-sagemaker.html)
 1. What are the differences?
    
-## Amazon Q
+## [Amazon Q](https://aws.amazon.com/q/)
 1. Overview
 2. Amazon Q - Business
 3. Amazon Q - Apps
@@ -48,7 +48,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 5. Amazon Q - AWS Services
 6. Amazon Q - PartyRock
 
-## AI And Machine Learning
+## [AI And Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/)
 1. Overview
 2. AI & ML - Common exam terms
 3. AI & ML - Training data
@@ -62,7 +62,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 11. AI & ML - When not to use ML
 12. Hyperparatmeters
 
-## AWS Managed AI Services
+## [AWS Managed AI Services[(https://aws.amazon.com/ai/services/)
 1. When to use an AI Managed service
 2.Amazon Comprehend
 3.Amazon Translate
@@ -80,7 +80,7 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 15. Amazon Comprehend Medical & Transcribe
 16. Amazon Hardware for AI
 
-## Challenges of AI
+## [Challenges of AI](https://aws.amazon.com/blogs/publicsector/introducing-the-amazon-trusted-ai-challenge/#:~:text=The%20Amazon%20Trusted%20AI%20Challenge%20aims%20to%20enhance%20the%20safety,AI%2Dassisted%20software%20development%20tools.)
 
 ## AWS Security Services
 

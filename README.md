@@ -79,4 +79,10 @@ This page will serve as a study guide for the AWS AI Practitioner exam.
 15. Amazon Comprehend Medical & Transcribe
 16. Amazon Hardware for AI
 
+## Challenges of AI
+
+## AWS Security Services
+
+## AWS Managed AI Services
+
 # Exam - Sample questions

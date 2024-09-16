@@ -10,11 +10,19 @@
 
 <summary> Introduction to AI </summary>
 
- ## Introduction to AI
+ ### What is AI?
+
+ ### How does it work?
+
+ ### A History of AI
+
+ ### When to use AI?
+
+ ### Real world examples of AI
+
+ ### How AI is used today
  
 </details>
-
-### The history of AI
 
 
 

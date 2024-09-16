@@ -10,15 +10,8 @@
 
 <summary> Introduction to AI </summary>
 
-
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```
-   ## Introduction to AI
-```
+ ## Introduction to AI
+ 
 </details>
 
 ### The history of AI

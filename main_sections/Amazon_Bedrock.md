@@ -1,4 +1,4 @@
-# _[Amazon Bedrock](https://aws.amazon.com/bedrock/)_
+# __[Amazon Bedrock](https://aws.amazon.com/bedrock/)__
 
 ## What is Amazon Bedrock?
 

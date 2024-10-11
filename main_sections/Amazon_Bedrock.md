@@ -1,8 +1,8 @@
-#Amazon Bedrock - Full breakdown
+# [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 
 ## What is Amazon Bedrock?
 
-Amazon Bedrock is a fully managed service that provides access to high-performing foundation models (FMs) from leading AI companies and Amazon via a unified API. It allows you to select models that fit your needs, offering tools to build generative AI applications with security and privacy in mind. Bedrock supports private customization of models using techniques like fine-tuning and Retrieval Augmented Generation (RAG), enabling the creation of AI agents that integrate with your enterprise systems. With its serverless experience, Bedrock simplifies customization and deployment without the need to manage infrastructure
+Amazon Bedrock is a fully managed service that provides access to high-performing foundation models (FMs) from leading AI companies and Amazon via a unified API. It allows you to select models that fit your needs, offering tools to build generative AI applications with security and privacy in mind. Bedrock supports private customization of models using techniques like fine-tuning and [Retrieval Augmented Generation (RAG)](https://aws.amazon.com/what-is/retrieval-augmented-generation/), enabling the creation of AI agents that integrate with your enterprise systems. With its serverless experience, Bedrock simplifies customization and deployment without the need to manage infrastructure
 
 ## What can you do with Amazon Bedrock?
 

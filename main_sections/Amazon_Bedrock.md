@@ -5,11 +5,11 @@ Amazon Bedrock is a fully managed service that provides access to high-performin
 ## What can you do with Amazon Bedrock?
 
 Experiment with prompts and configurations via API or console.
-	•	Enhance responses by querying your data sources.
-	•	Build AI agents that reason and perform tasks.
-	•	Customize models with training data for specific tasks.
-	•	Improve efficiency with Provisioned Throughput.
-	•	Choose the best model for your needs and apply content safeguards.
+	- Enhance responses by querying your data sources.
+	- Build AI agents that reason and perform tasks.
+	- Customize models with training data for specific tasks.
+	- Improve efficiency with Provisioned Throughput.
+	- Choose the best model for your needs and apply content safeguards.
 
 Check AWS documentation for regional limitations.
 

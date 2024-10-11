@@ -1,4 +1,4 @@
-# __[Amazon Bedrock](https://aws.amazon.com/bedrock/ "Amazon Bedrock")__
+# __Amazon Bedrock__
 
 ## What is Amazon Bedrock?
 

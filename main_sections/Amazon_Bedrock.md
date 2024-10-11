@@ -1,4 +1,6 @@
-d## What is Amazon Bedrock?
+#Amazon Bedrock - Full breakdown
+
+## What is Amazon Bedrock?
 
 Amazon Bedrock is a fully managed service that provides access to high-performing foundation models (FMs) from leading AI companies and Amazon via a unified API. It allows you to select models that fit your needs, offering tools to build generative AI applications with security and privacy in mind. Bedrock supports private customization of models using techniques like fine-tuning and Retrieval Augmented Generation (RAG), enabling the creation of AI agents that integrate with your enterprise systems. With its serverless experience, Bedrock simplifies customization and deployment without the need to manage infrastructure
 
@@ -13,7 +15,13 @@ Experiment with prompts and configurations via API or console.
 
 Check AWS documentation for regional limitations.
 
-## Getting started with Bedrock
+## Access foundation models
 
-Before you begin, you will have needed to [setup your AWS account](https://docs.aws.amazon.com/bedrock/latest/userguide/getting-started.html#getting-started-bedrock-role), and [requested access to the base line foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/getting-started.html#getting-started-model-access). The following steps will also need to be complete in the AWS Region US-East-1 (North Virginia).
+Access to Amazon Bedrock foundation models isn't granted by default. You can request access, or modify access, to foundation models only by using the Amazon Bedrock console.
+
+You will first need to have the [correct IAM permissions](https://aws.amazon.com/iam/). The minium required access level for access foundation models are as follows:
+
+* aws-marketplace:Subscribe
+* aws-marketplace:Unsubscribe
+* aws-marketplace:ViewSubscriptions
 
